@@ -40,15 +40,15 @@ Un semplice simulatore che mostra in modo semplice come funziona un antibiogramm
 
 ***Avviare il software***
 
-![Schermata del gioco](/screenshots/abioscreen.png)
+![Schermata del gioco](/screenshots/abioscreenit.png)
 
 ***Aggiungi tre antibiotici e guarda cosa succede***
 
-![Schermata del gioco](/screenshots/abioscreen1.png)
+![Schermata del gioco](/screenshots/abioscreenit1.png)
 
 ***Aspetta i risultati***
 
-![Schermata del gioco](/screenshots/abioscreen2.png)
+![Schermata del gioco](/screenshots/abioscreenit2.png)
 
 Il simulatore è deterministico, l'unica casualità riguarda la posizione degli antibiotici nel campo di coltura, ma i risultati saranno sempre gli stessi, poiché questo software è solo a scopo dimostrativo.
 
