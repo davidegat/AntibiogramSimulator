@@ -34,7 +34,7 @@ Simulator is deterministic, the only randomness is in antibiotics position in co
 
 <a name="italiano"></a>
 # AntibiogramSimulator
-Un semplice simulatore che mostra in modo semplice come funziona un antibiogramma. Codice e binari disponibili sia in italiano che in inglese.
+Un simulatore che mostra in modo semplice come funziona un antibiogramma. Codice e binari disponibili sia in italiano che in inglese.
 
 # Come funziona
 
