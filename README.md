@@ -1,4 +1,4 @@
-# AntibiogramSimulator
+# Antibiogram Simulator
 A simple simulator that shows the easy way how an antibiogram works. Code and binaries available in both italian and english languages.
 
 [**README IN ITALIANO**](#italiano)
@@ -38,7 +38,7 @@ Simulator is deterministic, the only randomness is in antibiotics position in co
 ©2023 Davide Nasato
 
 <a name="italiano"></a>
-# AntibiogramSimulator
+# Simulatore di antibiogramma
 Un simulatore che mostra in modo semplice come funziona un antibiogramma. Codice e binari disponibili sia in italiano che in inglese.
 
 ***Antibiogramma?***
