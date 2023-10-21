@@ -6,7 +6,7 @@ A simple simulator that shows the easy way how an antibiogram works. Code and bi
 ***Antibiogram?***
 An antibiogram is a laboratory test that determines the sensitivity of a bacterium to various antibiotics. This test is crucial for selecting the most effective antibiotic treatment in case of an infection. It involves culturing the bacterium on a culture plate and exposing it to different antibiotics to see which ones can kill or inhibit the bacterium's growth. The results of the antibiogram assist doctors in prescribing the most appropriate antibiotic to target the infection effectively.
 
-![Game Screenshot](antibio.jpg)
+![Game Screenshot](antibio.jpeg)
 
 # How simulator works
 
@@ -44,7 +44,7 @@ Un simulatore che mostra in modo semplice come funziona un antibiogramma. Codice
 ***Antibiogramma?***
 L'antibiogramma è un test di laboratorio che permette di determinare la sensibilità di un batterio a diversi antibiotici. Questo test è fondamentale per la scelta del trattamento antibiotico più efficace in caso di infezione. Viene condotto coltivando il batterio in una piastra di coltura e esponendolo a vari antibiotici per vedere quali di essi riescono a uccidere o inibire la crescita del batterio. I risultati dell'antibiogramma aiutano i medici a prescrivere l'antibiotico più appropriato per combattere l'infezione in modo mirato.
 
-![Game Screenshot](antibio.jpg)
+![Game Screenshot](antibio.jpeg)
 
 # Come funziona il simulatore
 
